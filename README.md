@@ -4,7 +4,7 @@
 • Used MySQLi to connect and interact with the database. This Web application has CRUD functionality.<br />
 • Used Session/Cookies to implement login feature and used JSON News API to show the top headline news.<br />
 
-<strong>Introduction</strong><<br />
+<strong>Introduction</strong><br />
 Every time when I visit CS office hours, it took me a really long time to see each course’s office hour, the name of
 the course producers, and whether it is currently available or not. So, I decided to make a single website that
 can display all CS core courses' office hours into a single project. My project shows the office hour schedule for
