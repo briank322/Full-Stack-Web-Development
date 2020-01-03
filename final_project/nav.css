@@ -1,0 +1,48 @@
+body{
+  background-color: #FAF3DD;
+
+
+}
+.nav-item{
+  color: green;
+  font-size: 20px;
+  font-family: 'Bebas Neue';
+
+}
+#status{
+  font-size:20px;
+  font-family: 'Bebas Neue';
+}
+.navbar-collapse {
+  text-align: center;
+}
+#logo{
+  font-family: 'Bebas Neue';
+}
+.navbar-brand{
+  margin-right:0;
+
+}
+.nav{
+  background-color: #e3f2fd;
+
+}
+.navbar{
+  background-color:    #c8d5b9;
+}
+
+.nav-link:hover:not(.active) {
+  background-color:   #8fc0a9;
+  text-decoration: underline;
+  color: white;
+}
+#login{
+  border-style: dashed;
+  border-width: 2px;
+  padding: 5%;
+  background-color: #c8d5b9;
+}
+#logintitle{
+ font-family: 'Bebas Neue';
+}
+
